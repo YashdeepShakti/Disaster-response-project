@@ -39,4 +39,4 @@ Usage:
 
 From the /app directory Run the following command to run the web app:
  python run.py   
-Go to http://0.0.0.0:3001/
+
