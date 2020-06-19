@@ -40,3 +40,5 @@ Usage:
 From the /app directory Run the following command to run the web app:
  python run.py   
 
+
+Repository link : https://github.com/YashdeepShakti/Disaster-response-project
